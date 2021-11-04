@@ -1,5 +1,5 @@
 # Ignacio Gil Garzón
-Hi I'm Ignacio, a 20 year old developer from Madrid, Spain. I have been a tech enthusiast ever sice I built my first PC back in 2017.
+Hi I'm Ignacio, a 20 year old developer from Madrid, Spain, and I have been a tech enthusiast ever sice I built my first PC back in 2017.
 
 <!-- ## 🚀 Projects -->
 
