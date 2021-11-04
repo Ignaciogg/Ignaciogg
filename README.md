@@ -7,7 +7,7 @@ Hi I'm Ignacio, a 20 year old developer from Madrid, Spain, and I have been a te
 I'm currently studying the second/third year of Computer Engineering at Universidad Europea.
 
 ## 👨‍🎓 What courses have I done?
-- Java -> oxford
+- Java -> ox
 
 ## 🛠 Tools I have used at some point:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -24,7 +24,6 @@ I'm currently studying the second/third year of Computer Engineering at Universi
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-FCA121?style=flat-square&logo=visual-studio-code)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ignaciogg)
 
 
 ## 💻 My stats
@@ -38,7 +37,7 @@ I'm currently studying the second/third year of Computer Engineering at Universi
 - [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white&color=506ad4)](https://www.linkedin.com/in/ignacio-gil-garz%C3%B3n-93b321222/)
 - [![](https://img.shields.io/badge/-Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=506ad4)](mailto:nachogilgarzon@gmail.com)
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ignaciogg)
 
 <p align="center">
   <q>It's not faith in technology. It's faith in people.</q>
