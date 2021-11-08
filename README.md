@@ -40,7 +40,5 @@ I'm currently studying the second/third year of Computer Engineering at Universi
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ignaciogg)
 
 <p align="center">
-  <q>It's not faith in technology. It's faith in people.</q>
-  </br>
-  <cite>Steve Jobs</cite>
+  <q>It's not a bug - it's an undocumented feature.</q>
 </p>
