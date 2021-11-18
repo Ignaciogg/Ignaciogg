@@ -9,7 +9,7 @@ I'm currently studying the second/third year of Computer Engineering at Universi
 ## 👨‍🎓 What courses have I done?
 - Java -> ox
 
-## 🛠 Tools I have used at some point:
+## 🛠 Tools I've used at some point:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
