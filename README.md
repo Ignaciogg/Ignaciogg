@@ -1,5 +1,5 @@
 # Ignacio Gil Garzón
-Hi I'm Ignacio, a 20 year old developer from Madrid, Spain, and I have been a tech enthusiast ever sice I built my first PC back in 2017.
+Hi, I'm Ignacio, a 20 year old developer from Madrid, Spain, and I have been a tech enthusiast ever sice I built my first PC back in 2017.
 
 <!-- ## 🚀 Projects -->
 
@@ -28,9 +28,9 @@ I'm currently studying the second/third year of Computer Engineering at Universi
 
 ## 💻 My stats
 <div align=”center”>
-  <img height = "175" src="https://github-readme-stats.vercel.app/api?username=Ignaciogg&theme=dark&hide=prs,issues&include_all_commits=true" />
+  <img height = "150" src="https://github-readme-stats.vercel.app/api?username=Ignaciogg&theme=dark&hide=prs,issues&include_all_commits=true" />
 
-  <img height = "175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignaciogg&theme=dark&layout=compact" />
+  <img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignaciogg&theme=dark&layout=compact" />
 </div>
 
 ## 💬 Contact me
