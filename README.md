@@ -27,9 +27,13 @@ I'm currently studying the second/third year of Computer Engineering at Universi
 
 
 ## 💻 My stats
-<div align=”center”>
-  <img height = "150" src="https://github-readme-stats.vercel.app/api?username=Ignaciogg&theme=dark&hide=prs,issues&include_all_commits=true" />
-  <img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignaciogg&hide=jupyter%20notebook&theme=radical&&layout=compact" />
+<div>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ignaciogg&theme=dark&hide=prs,issues&include_all_commits=true" />
+ </a>
+ <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignaciogg&hide=jupyter%20notebook&theme=radical&&layout=compact" />
+ </a>
 </div>
 
 ## 💬 Contact me
