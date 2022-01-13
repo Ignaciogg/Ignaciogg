@@ -29,7 +29,7 @@ I'm currently studying the second/third year of Computer Engineering at Universi
 ## 💻 My stats
 <div align=”center”>
   <img height = "150" src="https://github-readme-stats.vercel.app/api?username=Ignaciogg&theme=dark&hide=prs,issues&include_all_commits=true" />
-  <img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignaciogg&hide=jupyter%20notebook&theme=radical&compact=true" />
+  <img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignaciogg&hide=jupyter%20notebook&theme=radical&&layout=compact" />
 </div>
 
 ## 💬 Contact me
