@@ -25,21 +25,15 @@ I'm currently studying the second/third year of Computer Engineering at Universi
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-FCA121?style=flat-square&logo=visual-studio-code)
 
-
 ## 💻 My stats
-<div>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ignaciogg&theme=dark&hide=prs,issues&include_all_commits=true" />
- </a>
- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignaciogg&hide=jupyter%20notebook&theme=radical&&layout=compact" />
- </a>
+<div align=”center”>
+  <img height = "150" src="https://github-readme-stats.vercel.app/api?username=Ignaciogg&theme=dark&hide=prs,issues&include_all_commits=true" />
+  <img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignaciogg&hide=jupyter%20notebook&theme=radical&&layout=compact" />
 </div>
 
 ## 💬 Contact me
 - [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white&color=506ad4)](https://www.linkedin.com/in/ignacio-gil-garz%C3%B3n-93b321222/)
 - [![](https://img.shields.io/badge/-Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=506ad4)](mailto:nachogilgarzon@gmail.com)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ignaciogg)
 
 <p align="center">
