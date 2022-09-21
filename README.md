@@ -1,11 +1,12 @@
 # Ignacio Gil Garzón
-Hi, I'm Ignacio, a 20 year old developer from Madrid, Spain, and I have been a tech enthusiast ever sice I built my first PC back in 2017.
+Hi, I'm Ignacio, a 21 year old developer from Madrid, Spain, and I have been a tech enthusiast ever sice I built my first PC back in 2017.
 
 ## 📚 What am I studying now?
-I'm currently studying the second/third year of Computer Engineering at Universidad Europea.
+I'm currently studying the third year of Computer Engineering at Universidad Europea.
 
 ## 👨‍🎓 What courses have I done?
-- Java -> ox
+- Java -> Oxford Summer Courses
+- Python -> Growth by Google
 
 ## 🛠 Tools I've used at some point:
 ![Python](https://img.shields.io/badge/-Python-FFD438?style=flat-square&logo=Python)
