@@ -7,6 +7,8 @@ I'm currently studying the third year of Computer Engineering at Universidad Eur
 ## 👨‍🎓 What courses have I done?
 - Java -> Oxford Summer Courses
 - Python -> Growth by Google
+- Linux -> Linux Essentials
+- CISCO Netacad -> CCNA1 & CCNA2
 
 ## 🛠 Tools I've used at some point:
 ![Python](https://img.shields.io/badge/-Python-FFD438?style=flat-square&logo=Python)
