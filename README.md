@@ -23,11 +23,11 @@ I'm currently studying the third year of Computer Engineering at Universidad Eur
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ## 💻 My stats
-<div align=”center”>
+<div align="center">
   <img height = "150" src="https://github-readme-stats.vercel.app/api?username=Ignaciogg&theme=dracula&hide=prs,issues&include_all_commits=true" />
   <img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignaciogg&exclude_repo=Practicas-PCD,Practicas-IA,IA-P2-ML-Pokemon,IA-P3-Interpretabilidad&theme=dracula&layout=compact" />
 </div>
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignaciogg&theme=dracula" alt="Ignaciogg" /></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignaciogg&theme=dracula" alt="Ignaciogg" /></div>
 
 ## 💬 Contact me
 - [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white&color=506ad4)](https://www.linkedin.com/in/ignacio-gil-garz%C3%B3n-93b321222/)
