@@ -1,5 +1,5 @@
 # Ignacio Gil Garzón
-Hi, I'm Ignacio, a 21 year old developer from Madrid, Spain, and I have been a tech enthusiast ever sice I built my first PC back in 2017.
+Hi, I'm Ignacio, a 22 year old developer from Madrid, Spain, and I have been a tech enthusiast ever sice I built my first PC back in 2017.
 
 ## 📚 What am I studying right now?
 I'm currently studying the third year of Computer Science at Universidad Europea.
